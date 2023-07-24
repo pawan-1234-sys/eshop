@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a975016b.css",
+    "main.js": "/static/js/main.f9d05363.js",
+    "static/media/add3.mp4": "/static/media/add3.0029c620c12125585399.mp4",
+    "static/media/slidethree.webp": "/static/media/slidethree.75b6fba2de3dd8864aa2.webp",
+    "static/media/crossfittwo.webp": "/static/media/crossfittwo.bcc754f8c70ec13ae9ab.webp",
+    "static/media/condo.mp4": "/static/media/condo.7cd5d1b079560bda43bb.mp4",
+    "static/media/crossfitonefit.jpg": "/static/media/crossfitonefit.6140a53ed7c79066ea8b.jpg",
+    "index.html": "/index.html",
+    "main.a975016b.css.map": "/static/css/main.a975016b.css.map",
+    "main.f9d05363.js.map": "/static/js/main.f9d05363.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a975016b.css",
+    "static/js/main.f9d05363.js"
+  ]
+}
